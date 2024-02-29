@@ -11,11 +11,9 @@
             "id": "7313854f8fd2a123",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "9. Understand Terraform Cloud capabilities.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Understand Terraform Cloud capabilities.md",
+                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Understand Terraform Cloud capabilities.md",
+                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Understand Terraform Cloud capabilities.md"
+                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png"
               }
             }
           },
@@ -156,12 +154,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7313854f8fd2a123",
+  "active": "70433cf578aef771",
   "lastOpenFiles": [
-    "Code/ctops-how-to-add-variables-in-terraform-cloud.png",
-    "Code/ctops-list-of-variables.png",
-    "Code/ctops-list-of-workspace.png",
     "9. Understand Terraform Cloud capabilities.md",
+    "Images/ctops-how-to-add-variables-in-terraform-cloud.png",
+    "Images/ctops-list-of-variables.png",
+    "Images/ctops-list-of-workspace.png",
     "Code",
     "Code",
     "HashiCorp Certified Terraform Associate (003).md",
