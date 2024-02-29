@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d7448550fd30da",
+        "id": "0a254c369c98b255",
         "type": "tabs",
         "children": [
           {
-            "id": "73c96c12e80ab518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9. Understand Terraform Cloud capabilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298c2e9830b570ee",
+            "id": "7313854f8fd2a123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,9 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73c96c12e80ab518",
+  "active": "7313854f8fd2a123",
   "lastOpenFiles": [
+    "Code/ctops-how-to-add-variables-in-terraform-cloud.png",
+    "Code/ctops-list-of-variables.png",
+    "Code/ctops-list-of-workspace.png",
+    "9. Understand Terraform Cloud capabilities.md",
+    "Code",
+    "Code",
     "HashiCorp Certified Terraform Associate (003).md",
-    "9. Understand Terraform Cloud capabilities.md"
+    "Images/ctops-terraform-cloud-dashboard.png",
+    "Images/ctops-create-new-org.png",
+    "Images"
   ]
 }
