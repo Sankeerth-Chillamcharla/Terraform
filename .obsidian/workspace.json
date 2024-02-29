@@ -11,9 +11,11 @@
             "id": "7313854f8fd2a123",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png"
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/ctops-how-to-add-variables-in-terraform-cloud.png"
+                "file": "README.md.md"
               }
             }
           },
@@ -135,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
     "Images/ctops-list-of-workspace.png",
     "Code",
     "Code",
-    "HashiCorp Certified Terraform Associate (003).md",
+    "README.md.md",
     "Images/ctops-terraform-cloud-dashboard.png",
     "Images/ctops-create-new-org.png",
     "Images"

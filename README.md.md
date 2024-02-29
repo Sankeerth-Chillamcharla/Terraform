@@ -1,6 +1,7 @@
 
-### Exam objectives
+# HashiCorp Certified: Terraform Associate (003)
 
+### Exam objectives
 
 1. Understand infrastructure as code (IaC) concepts
 	1. Explain what IaC is
